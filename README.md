@@ -3,8 +3,9 @@
 Este es un juego simple en el que el usuario debe adivinar un número aleatorio entre 1 y 100. El programa proporciona pistas sobre si el número ingresado es mayor o menor que el número correcto, y cuenta la cantidad de intentos que lleva el jugador. El juego está desarrollado en Python utilizando **Tkinter** para la interfaz gráfica.
 
 <p align="center">
-  <img src="screenshot.png" alt="Adivina el Número" width="350">
+  <img src="screenshot.png" alt="Adivina el Número" width="500">
 </p>
+
 
 
 ## Características
